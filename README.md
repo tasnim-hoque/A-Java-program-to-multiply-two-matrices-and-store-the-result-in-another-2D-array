@@ -1,1 +1,0 @@
-# A-Java-program-to-multiply-two-matrices-and-store-the-result-in-another-2D-array
